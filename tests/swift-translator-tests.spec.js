@@ -367,10 +367,10 @@ const TEST_DATA = {
   
   ui: {
     tcId: 'Pos_UI_001',
-    name: 'Real-time translation updates as typing',
-    input: 'mama kaeema kannavaa',
-    partialInput: 'mama kae',
-    expectedFull: 'මම කෑම කන්නවා',
+    name: 'Sinhala output suggest automatically in real-time',
+    input: 'mama adha enavaa',
+    partialInput: 'මම අද එ',
+    expectedFull: 'මම අද එනවා',
     category: 'Usability flow',
     grammar: 'Present tense',
     length: 'S'
